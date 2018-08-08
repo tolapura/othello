@@ -1,0 +1,23 @@
+                
+                              =====================
+      ======================= H O W   T O   P L A Y ========================
+      ||                      =====================                       ||
+      ||   + The Goal                                                     ||
+      ||   The winner is the player who has more discs of his colour      ||
+      ||   than his opponent at the end of the game. This will happen     ||
+      ||   when neither of the two players has a legal move.              ||
+      ||                                                                  ||
+      ||   + Making a Move                                                ||
+      ||   A player must place a disc of his colour on one of the         ||
+      ||   empty squares, adjacent to an opponent's disc. By placing      ||
+      ||   his disc, he must flank one or several of his opponent's       ||
+      ||   discs between the disc played.                                 ||
+      ||                                                                  ||
+      ||   + End of the Game                                              ||
+      ||   The game ends when neither of the players has a legal move.    ||
+      ||                                                                  ||
+      ======================================================================
+
+                              =====================
+                                  BACK TO HOME
+                              =====================                                         
